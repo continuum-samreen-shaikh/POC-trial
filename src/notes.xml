@@ -1,0 +1,20 @@
+<Users>
+ <Users>
+  <Name>Elliot</Name>
+  <Type>Reader</Type>
+  <Age>23</Age>
+  <Social>
+   <Facebook>https://facebook.com</Facebook>
+   <Twitter>https://twitter.com</Twitter>
+  </Social>
+ </Users>
+ <Users>
+  <Name>Fraser</Name>
+  <Type>Author</Type>
+  <Age>17</Age>
+  <Social>
+   <Facebook>https://facebook.com</Facebook>
+   <Twitter>https://twitter.com</Twitter>
+  </Social>
+ </Users>
+</Users>
